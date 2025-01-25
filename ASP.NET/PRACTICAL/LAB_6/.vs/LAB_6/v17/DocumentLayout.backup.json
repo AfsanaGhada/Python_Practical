@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\student\\contactus.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\student\\contactus.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\student\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\student\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5179077-D4E4-4F38-A35E-B8CC201E0C32}|LAB_6.csproj|d:\\sem_4\\asp.net\\practical\\lab_6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,32 +79,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout2.cshtml",
-              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
-              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
-              "ViewState": "AgIAAAgAAAAALzMzMzMLwCMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T03:53:41.452Z",
+              "Title": "ContactUs.cshtml.css",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Student\\ContactUs.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Student\\ContactUs.cshtml.css",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Student\\ContactUs.cshtml.css",
+              "RelativeToolTip": "Views\\Student\\ContactUs.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T03:57:55.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T03:57:19.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ContactUs.cshtml",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Student\\ContactUs.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\ContactUs.cshtml",
               "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Student\\ContactUs.cshtml",
               "RelativeToolTip": "Views\\Student\\ContactUs.cshtml",
-              "ViewState": "AgIAAAkAAADAMTMzMzMbwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-28T03:42:09.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StudentList.cshtml",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Student\\StudentList.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\StudentList.cshtml",
@@ -109,28 +130,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAQDMzMzPjvyAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-28T03:09:46.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T03:08:40.184Z",
               "EditorCaption": ""
             },
             {
@@ -149,6 +157,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T03:53:41.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T03:08:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -161,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -174,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -187,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -200,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -213,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -226,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -239,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_6\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",

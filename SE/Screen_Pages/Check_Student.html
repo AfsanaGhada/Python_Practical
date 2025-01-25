@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check The Student Remaining</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Full height and centering the content */
+        html, body {
+            height: 100%;
+        }
+        .container {
+            min-height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .check-btn-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+        .table-container {
+            margin-top: 30px;
+        }
+        .form-box {
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        .form-row {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 col-lg-6">
+                <!-- Form Box -->
+                <div class="form-box">
+                    <h3 class="text-center mb-4"> Check Student </h3>
+                    <form id="studentForm">
+                        <!-- First Row: Name and Age -->
+                        <div class="form-row">
+                            <div class="col-12 col-md-6">
+                                <div class="col-12 col-md-6">
+                                    <div class="form-group">
+                                        <label for="studentId">Student Enroll No</label>
+                                        <input type="text" class="form-control" id="studentId" placeholder="Enter  Enroll No">
+                                    </div>
+                                <div class="form-group">
+                                    <label for="name">Name</label>
+                                    <input type="text" class="form-control" id="name" placeholder="Enter name">
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <!-- Second Row: Course and Student ID -->
+                        
+                        <!-- Third Row: Email -->
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Centered 'Check The Student Remaining On It' button -->
+        <div class="check-btn-container">
+            <button class="btn btn-primary" id="checkBtn">Check The Student Remaining On It</button>
+        </div>
+
+        <!-- Table to display student data -->
+        <div class="table-container">
+            <h4 class="text-center">Student Data</h4>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Enroll No</th>
+                        <th>Name</th>
+                        <th>Age</th>
+                        <th>Course</th>
+                        <th>Student ID</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody id="studentTableBody">
+                    <!-- Student data will be displayed here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Sample student data with additional fields
+        const students = [
+            { enrollNo: "S123", name: "afsana", age: 20, course: "Mathematics", studentId: "A12345", email: "a@example.com" },
+            { enrollNo: "S124", name: "asma", age: 22, course: "Physics", studentId: "B12345", email: "b@example.com" },
+            { enrollNo: "S125", name: "Charlie", age: 21, course: "Chemistry", studentId: "C12345", email: "charlie@example.com" },
+            { enrollNo: "S126", name: "Diana", age: 23, course: "Biology", studentId: "D12345", email: "diana@example.com" },
+            { enrollNo: "S127", name: "ruchi", age: 20, course: "Computer Science", studentId: "E12345", email: "vgxgs@example.com" }
+        ];
+    
+        // Function to load sample data into the table
+        function loadSampleData() {
+            const tableBody = document.getElementById('studentTableBody');
+            students.forEach(student => {
+                const row = tableBody.insertRow();
+                row.insertCell(0).textContent = student.enrollNo;
+                row.insertCell(1).textContent = student.name;
+                row.insertCell(2).textContent = student.age;
+                row.insertCell(3).textContent = student.course;
+                row.insertCell(4).textContent = student.studentId;
+                row.insertCell(5).textContent = student.email;
+            });
+        }
+    
+        // Call the function to load sample data on page load
+        window.onload = loadSampleData;
+    
+        // Function to handle the form submission and add data to the table
+        document.getElementById('checkBtn').addEventListener('click', function() {
+            const enrollNo = document.getElementById('enrollNo').value;
+            const name = document.getElementById('name').value;
+            const age = document.getElementById('age').value;
+            const course = document.getElementById('course').value;
+            const studentId = document.getElementById('studentId').value;
+            const email = document.getElementById('email').value;
+    
+            // Simple validation to make sure the form is filled
+            if (enrollNo && name && age && course && studentId && email) {
+                const tableBody = document.getElementById('studentTableBody');
+                const row = tableBody.insertRow();
+    
+                // Insert new data into the table
+                row.insertCell(0).textContent = enrollNo;
+                row.insertCell(1).textContent = name;
+                row.insertCell(2).textContent = age;
+                row.insertCell(3).textContent = course;
+                row.insertCell(4).textContent = studentId;
+                row.insertCell(5).textContent = email;
+    
+                // Clear the form fields after submitting
+                document.getElementById('studentForm').reset();
+            } else {
+                alert('Please fill out all fields.');
+            }
+        });
+    </script>
+    
+
+
+

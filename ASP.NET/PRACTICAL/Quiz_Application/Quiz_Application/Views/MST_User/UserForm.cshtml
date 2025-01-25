@@ -1,0 +1,74 @@
+﻿<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>UserForm</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-Controller="Home" asp-action="Index">HOME</a></li>
+                <li class="breadcrumb-item">Forms</li>
+                <li class="breadcrumb-item active">Layouts</li>
+            </ol>
+        </nav>
+    </div><!-- End Page Title -->
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-100">
+
+                <div class="card">
+                    <div class="card-body">
+
+                        <!-- Horizontal Form -->
+                        <body>
+                            <div class="container mt-5">
+                                <h2 class="mb-4">User Information Form</h2>
+                                <form action="#" method="POST">
+                                    
+                                    <div class="mb-3">
+                                        <label for="username" class="form-label">User Name</label>
+                                        <input type="text" class="form-control" id="username" name="username" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="password" class="form-label">Password</label>
+                                        <input type="password" class="form-control" id="password" name="password" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label">Email</label>
+                                        <input type="email" class="form-control" id="email" name="email" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="mobile" class="form-label">Mobile</label>
+                                        <input type="tel" class="form-control" id="mobile" name="mobile" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="isactive" class="form-label">Is Active</label>
+                                        <select class="form-control" id="isactive" name="isactive" required>
+                                            <option value="1">Active</option>
+                                            <option value="0">Inactive</option>
+                                        </select>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="isadmin" class="form-label">Is Admin</label>
+                                        <select class="form-control" id="isadmin" name="isadmin" required>
+                                            <option value="1">Admin</option>
+                                            <option value="0">User</option>
+                                        </select>
+                                    </div>
+                                    
+                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                    <a class="btn btn-danger" asp-area="" asp-controller="MST_User" asp-action="UserList">Cancle</a>
+
+
+                                </form>
+                            </div>
+
+                            
+                        </body>
+                        <!-- End Horizontal Form -->
+
+                    </div>
+                </div>
+                @*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
