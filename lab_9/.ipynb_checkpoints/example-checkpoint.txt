@@ -1,6 +1,0 @@
-Hello
-How are You
-I am Fine
-Python Lab no :9
-this is example .txt file
-
