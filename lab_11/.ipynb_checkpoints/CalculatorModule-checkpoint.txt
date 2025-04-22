@@ -1,0 +1,8 @@
+def add():
+    print("Addition:",10+20)
+def sub():
+    print("Subtraction:",20-40)
+def mul():
+    print("Multiplication:",12*4)
+def div():
+    print("Division:",12/6)
