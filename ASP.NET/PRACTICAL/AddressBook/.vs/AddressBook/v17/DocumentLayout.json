@@ -126,8 +126,7 @@
               "RelativeToolTip": "AddressBook\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:15:20.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T19:15:20.437Z"
             },
             {
               "$type": "Document",
@@ -151,8 +150,7 @@
               "RelativeToolTip": "AddressBook\\Controllers\\CountryController.cs",
               "ViewState": "AgIAAHEAAADAZWZmZiYpwGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:19:18.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T13:19:18.458Z"
             },
             {
               "$type": "Document",
@@ -164,8 +162,7 @@
               "RelativeToolTip": "AddressBook\\Views\\City\\CityForm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:54:01.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:54:01.531Z"
             },
             {
               "$type": "Document",
@@ -177,8 +174,7 @@
               "RelativeToolTip": "AddressBook\\Views\\Country\\CountryForm.cshtml",
               "ViewState": "AgIAABQAAAAAZmZmZmYkwCkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:53:30.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:53:30.609Z"
             },
             {
               "$type": "Document",
@@ -203,8 +199,7 @@
               "RelativeToolTip": "AddressBook\\Views\\Users\\UsersForm.cshtml",
               "ViewState": "AgIAAB0AAABgNDMzM7MiwCIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:52:29.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:52:29.42Z"
             },
             {
               "$type": "Document",
@@ -421,10 +416,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T17:02:51.188Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
